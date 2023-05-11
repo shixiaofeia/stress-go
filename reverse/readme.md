@@ -27,9 +27,9 @@ min: 161833
 
 ![hertz_fast.png](hertz_fast.png)
 
-max: 165763
+max: 197250
 
-min: 131759
+min: 180556
 
 ### Hertz => Net
 
